@@ -1,2 +1,27 @@
 # cybersecurity-awareness-guide
 Abeginner-friendlyguidetocybersecurityawarenessandonlinesafety
+##ProjectDescription
+Thisprojectprovidesbasiccybersecurityawarenessinformationtohelpusersstaysafeonline.
+
+##Objectives
+-Explainhowtoidentifyphishingattacks.
+-Promotestrongpasswordsandmulti-factorauthentication.
+-Encouragesafeinternetuse.
+-Provideasimplecybersecurityincidentreportingtemplate.
+
+##ProjectFiles
+-phishing-awareness.md–Informationaboutphishingprevention.
+-security-checklist.md–Basicsecuritymeasures.
+-incident-report-template.md–Atemplateforrecordingincidents.
+
+##TargetAudience
+Students,employeesandgeneralinternetusers.
+
+##Benefits
+Theguidehelpsusersrecognisecommoncyberthreatsandfollowsaferonlinepractices.
+
+##Author
+[moilwaedwinroomane]
+
+##Disclaimer
+Thisguideisforeducationalpurposes.Itdoesnotreplaceprofessionalcybersecurityadvice.
