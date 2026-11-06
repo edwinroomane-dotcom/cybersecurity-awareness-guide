@@ -1,0 +1,1 @@
+fieldsforincidentdateandtime,incidenttype,affectedsystemsoraccounts,actiontaken,andthepersonreportingtheincident.
